@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fe57db37-31e9-4bfb-9cc2-6bd24b19b3f2" name="Default" comment="" />
+    <list default="true" id="fe57db37-31e9-4bfb-9cc2-6bd24b19b3f2" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -63,11 +65,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bubleSort.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="bubleSort.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/bubleSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
+            <state relative-caret-position="408">
               <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fibonacci.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/fibonacci.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="24" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lonelyInteger.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lonelyInteger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -93,6 +113,8 @@
         <option value="$PROJECT_DIR$/src/balancedBrackets.java" />
         <option value="$PROJECT_DIR$/src/taleOfTwoStacks.java" />
         <option value="$PROJECT_DIR$/src/bubleSort.java" />
+        <option value="$PROJECT_DIR$/src/fibonacci.java" />
+        <option value="$PROJECT_DIR$/src/lonelyInteger.java" />
       </list>
     </option>
   </component>
@@ -155,12 +177,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.bubleSort">
+  <component name="RunManager" selected="Application.fib">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="bubleSort" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="bubleSort" />
+      <module name="CrackingTheCodinInterview" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="fib" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="fibonacci" />
       <module name="CrackingTheCodinInterview" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
     </configuration>
@@ -223,6 +250,7 @@
       <listeners />
     </configuration>
     <list>
+      <item itemvalue="Application.fib" />
       <item itemvalue="Application.leftRotation" />
       <item itemvalue="Application.makingAnagrams" />
       <item itemvalue="Application.ransomeNote" />
@@ -247,12 +275,12 @@
       <workItem from="1523863688934" duration="1944000" />
       <workItem from="1524166379186" duration="222000" />
       <workItem from="1524204652855" duration="1591000" />
-      <workItem from="1524293871931" duration="789000" />
+      <workItem from="1524293871931" duration="2235000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15215000" />
+    <option name="totallyTimeSpent" value="16661000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -554,8 +582,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/bubleSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
+        <state relative-caret-position="408">
           <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fibonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lonelyInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
         </state>
       </provider>
     </entry>
